@@ -8,4 +8,4 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 Patches: RookieEnough/patches-1.1.0.mpp  
 [Changelog](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.1.0)
 
-CLI: MorpheApp/morphe-cli-1.9.1-all.jar    
+CLI: MorpheApp/morphe-desktop-1.13.0-all.jar    
