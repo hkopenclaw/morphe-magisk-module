@@ -314,7 +314,7 @@ patches_list_versions() {
 		cmd_base+=" -x"
 	fi
 
-	local cmd="${cmd_base} --patches='$patches_jar' -f '$pkg_name'"
+	local cmd="${cmd_base} '$patches_jar' -f '$pkg_name'"
 	if op=$(eval "$cmd" 2>&1); then
 		echo "$op"
 		return
@@ -333,7 +333,7 @@ patches_list() {
 	local cli_jar=$1 patches_jar=$2 pkg_name=$3 is_experimental=$4
 	local op
 	if ! op=$(java -jar "$cli_jar" list-patches -p "$patches_jar" --filter-package-name "$pkg_name" --versions --packages -b 2>&1); then
-		local cmd="java -jar '$cli_jar' list-patches '$patches_jar' -f '$pkg_name' --with-versions --with-packages"
+		local cmd="java -jar '$cli_jar' list-patches '$patches_jar' -f '$pkg_name' -vp"
 		if [ "$is_experimental" = "true" ]; then cmd+=" -x"; fi
 		if ! op=$(eval "$cmd" 2>&1); then
 			epr "Could not get patches list ($pkg_name) $cli_jar: '$op'"
