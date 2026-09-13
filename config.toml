@@ -106,7 +106,7 @@ direct-dlurl = "https://github.com/hkopenclaw/morphe-apks/releases/download/jp.p
 version = "6.141.1"
 enabled = false
 
-[Pixiv--Morphe]
+[Pixiv-Morphe]
 patches-source = "kiraio-moe/Lain-Patches"
 patches-version = "v1.4.0-dev.3"
 cli-source = "MorpheApp/morphe-cli"
