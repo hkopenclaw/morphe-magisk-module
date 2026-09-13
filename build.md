@@ -1,4 +1,4 @@
-GooglePhone-Morphe: 161.0.726587057-downloadable  
+GooglePhone: 161.0.726587057-downloadable  
 
 Install [Microg](https://github.com/MorpheApp/MicroG-RE/) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
