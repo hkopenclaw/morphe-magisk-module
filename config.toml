@@ -90,7 +90,7 @@ cli-version = "latest"
 rv-brand = "Morphe"
 build-mode = "module"
 arch = "all"
-direct-dlurl = "https://github.com/hkopenclaw/morphe-apks/releases/download/com.urbandroid.kinestop-5.5/com.urbandroid.kinestop-5.5-all.apk"
+direct-dlurl = "https://github.com/hkopenclaw/morphe-apks/releases/download/com.urbandroid.kinestop-5.1/com.urbandroid.kinestop-5.1-all.apk"
 
 [pixiv]
 patches-source = "kiraio-moe/Lain-Patches"
