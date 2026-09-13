@@ -119,7 +119,7 @@ direct-dlurl = "https://github.com/hkopenclaw/morphe-apks/releases/download/jp.p
 version = "6.189.0"
 enabled = false
 
-[GooglePhone-Morphe]
+[GooglePhone]
 patches-source = "arandomhooman/hoomans-morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
