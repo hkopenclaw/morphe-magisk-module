@@ -108,8 +108,9 @@ enabled = false
 
 [Pixiv--Morphe]
 patches-source = "kiraio-moe/Lain-Patches"
+patches-version = "v1.4.0-dev.3"
 cli-source = "MorpheApp/morphe-cli"
-cli-version = "v1.4.0-dev.3"
+cli-version = "latest"
 rv-brand = "Morphe"
 build-mode = "module"
 arch = "all"
