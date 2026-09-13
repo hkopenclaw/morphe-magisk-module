@@ -1,0 +1,6 @@
+{
+  "version": "v5.1 (patches 1.21.5.mpp)",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/hkopenclaw/morphe-magisk-module/releases/download/1/kinestop-morphe-module-v5.1-all.zip",
+  "changelog": "https://raw.githubusercontent.com/hkopenclaw/morphe-magisk-module/update/build.md"
+}
