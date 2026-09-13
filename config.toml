@@ -104,3 +104,15 @@ arch = "all"
 # uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 direct-dlurl = "https://github.com/hkopenclaw/morphe-apks/releases/download/jp.pxv.android-6.141.1/jp.pxv.android-6.141.1-all.apk"
 version = "6.141.1"
+enabled = false
+
+[Pixiv]
+patches-source = "kiraio-moe/Lain-Patches"
+cli-source = "MorpheApp/morphe-cli"
+cli-version = "v1.4.0-dev.3"
+rv-brand = "Morphe"
+build-mode = "module"
+arch = "all"
+# uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
+direct-dlurl = "https://github.com/hkopenclaw/morphe-apks/releases/download/jp.pxv.android-6.189.0/jp.pxv.android-6.189.0-all.apk"
+version = "6.189.0"
