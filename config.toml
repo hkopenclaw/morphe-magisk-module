@@ -94,7 +94,7 @@ arch = "all"
 direct-dlurl = "https://github.com/hkopenclaw/morphe-apks/releases/download/com.urbandroid.kinestop-5.1/com.urbandroid.kinestop-5.1-all.apk"
 enabled = false
 
-[Pixiv]
+[Pixiv-De-Vanced]
 patches-source = "RookieEnough/De-Vanced"
 cli-source = "MorpheApp/morphe-cli"
 cli-version = "latest"
@@ -106,7 +106,7 @@ direct-dlurl = "https://github.com/hkopenclaw/morphe-apks/releases/download/jp.p
 version = "6.141.1"
 enabled = false
 
-[Pixiv]
+[Pixiv--Morphe]
 patches-source = "kiraio-moe/Lain-Patches"
 cli-source = "MorpheApp/morphe-cli"
 cli-version = "v1.4.0-dev.3"
