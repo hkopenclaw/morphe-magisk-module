@@ -108,4 +108,14 @@ build-mode = "module"
 arch = "all"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/sofascore/soccer-scores-and-sports-livescore-sofascore/"
 direct-dlurl = "https://github.com/hkopenclaw/morphe-apks/releases/download/com.sofascore.results-26.09.14-all/com.sofascore.results-26.09.14-all.apkm"
+enabled = false
+
+[Sudoku]
+patches-source = "Mubelotix/my-morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+cli-version = "latest"
+rv-brand = "Morphe"
+build-mode = "module"
+arch = "all"
+direct-dlurl = "https://github.com/hkopenclaw/morphe-apks/releases/download/com.easybrain.sudoku.android-4.5.0-all/com.easybrain.sudoku.android-4.5.0-all.apk"
 enabled = true
