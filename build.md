@@ -5,7 +5,7 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-Patches: hkopenclaw/viutv-patches/patches-1.1.6.mpp  
-[Changelog](https://github.com/hkopenclaw/viutv-patches/releases/tag/v1.1.6)
+Patches: hkopenclaw/viutv-patches/patches-1.1.7.mpp  
+[Changelog](https://github.com/hkopenclaw/viutv-patches/releases/tag/v1.1.7)
 
 CLI: MorpheApp/morphe-cli/morphe-desktop-2.1.1-all.jar    
