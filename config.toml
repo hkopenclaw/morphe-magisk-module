@@ -130,6 +130,6 @@ cli-version = "latest"
 rv-brand = "Morphe"
 build-mode = "module"
 arch = "all"
-uptodown-dlurl = "https://hami-video.en.uptodown.com/android"
+direct-dlurl = "https://github.com/hkopenclaw/morphe-apks/releases/download/com.cht.ottPlayer-7.12.1017-all/com.cht.ottPlayer-7.12.1017-all.apk"
 version = "7.12.1017"
 enabled = true
